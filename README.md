@@ -6,4 +6,4 @@
 
 # Notes
 
-First and second questions are done, for the second question please check the console output also please check the comment
+First and second questions are done, for the second question please check the console output also please check the comment written above the function
