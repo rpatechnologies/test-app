@@ -34,5 +34,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "- Clone the repo\r - run `yarn install` or `npm install`\r - start the server by running `npm start`",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpatechnologies/test-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpatechnologies/test-app/issues"
+  },
+  "homepage": "https://github.com/rpatechnologies/test-app#readme"
 }
